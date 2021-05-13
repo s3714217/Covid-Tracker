@@ -1,0 +1,29 @@
+[
+    
+    {"name": "USA", "confirmed_cases": 5587397, "recovered_cases": 2852221,  "deaths":174137, "active":2906313, "code":"US" },
+    
+    {"name": "Brazil", "confirmed_cases": 3501975, "recovered_cases": 2653407,  "deaths":112304, "active":781889, "code":"BR"},
+    
+    {"name": "India", "confirmed_cases": 2905823, "recovered_cases": 2158946,  "deaths":54849, "active":740000,"code":"IN"},
+    
+    {"name": "Russia", "confirmed_cases": 946976, "recovered_cases": 716330,  "deaths":16189, "active":220000,"code":"RU"},
+    
+    {"name": "South Africa", "confirmed_cases": 599940, "recovered_cases": 497169,  "deaths":12618, "active":538000,"code":"ZA"},
+    
+    {"name": "Peru", "confirmed_cases": 567059, "recovered_cases": 380730,  "deaths":27034, "active":160000,"code":"PE"},
+    
+    {"name": "Mexico", "confirmed_cases": 543806, "recovered_cases": 371638,  "deaths":59106, "active":11300,"code":"MX"},
+    
+    {"name": "Colombia", "confirmed_cases": 513719, "recovered_cases": 339124,  "deaths":16183, "active":95000, "code":"CO"},
+    
+    {"name": "Chile", "confirmed_cases": 391849, "recovered_cases": 366093,  "deaths":10671, "active":15000, "code":"CL"},
+    
+    {"name": "Spain", "confirmed_cases": 370867, "recovered_cases": 150376,  "deaths":28797, "active":220000,"code":"ES"},
+    
+    {"name": "China", "confirmed_cases": 84917, "recovered_cases": 79792,  "deaths":4634, "active":1000,"code":"CN"},
+    
+    {"name": "Australia", "confirmed_cases": 24407, "recovered_cases": 18455,  "deaths":472, "active":5300, "code":"AU"},
+    
+    {"name": "Vietnam", "confirmed_cases": 1009, "recovered_cases": 545,  "deaths":25, "active":439, "code":"VN"}
+    
+]

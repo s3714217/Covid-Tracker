@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - Mapbox-iOS-SDK (4.11.2)
+
+DEPENDENCIES:
+  - Charts (~> 3.4.0)
+  - Mapbox-iOS-SDK (~> 4.11.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Mapbox-iOS-SDK
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  Mapbox-iOS-SDK: be0dbe7470db13cbcbf2e69afad714b8e3f24399
+
+PODFILE CHECKSUM: 5c1d74254aa4f9701e105588108044e874f50ed9
+
+COCOAPODS: 1.9.3
